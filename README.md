@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shikhar Srivastav.
 - 👀 I’m interested in DBMS and web development.
 - 🌱 I’m currently learning full stack web development using MERN stack.
-- 💞️ I’m not ready or perfect enough to collaborate right now but i'll be soon. 
+- 💞️ I’m not ready or perfect enough to collaborate right now but i'll be soon. Wait one more month. 
 - 📫 Whatsapp me at 7275075721.
 
 <!---
